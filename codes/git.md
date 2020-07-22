@@ -1,3 +1,5 @@
+# Git Commands Table
+
 | Command                  | Meaning                                   |
 | ------------------------ | ----------------------------------------- |
 | `diff`                   | Show changes in files                     |
