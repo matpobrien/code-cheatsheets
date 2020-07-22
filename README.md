@@ -6,4 +6,4 @@
 [About](/about.md)
 [Code Cheatsheets](codes/)
 
-![Codecamp](img/pikaface.png)
+![Codecamp](img/pikaface.jpg)
