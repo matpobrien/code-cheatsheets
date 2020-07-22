@@ -1,4 +1,4 @@
 # Codes
 
-[Command Line](command-line.md)
-[Visual Studio Code](visual-studio-code.md)
+[Command Line](/codes/command-line)
+[Visual Studio Code](/codes/visual-studio-code)
