@@ -14,4 +14,4 @@
 | `git pull`               | Fetch and merge files                     |
 | `git push`               | Merge changes to github repository        |
 | `git reset`              | Unstage all staged files                  |
-| `git status`             | Show currently stage status of files      |
+| `git status`             | Show current stage status of files        |
