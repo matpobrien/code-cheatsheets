@@ -2,9 +2,9 @@
 
 ## Keyboard Shortcuts
 
-|                              |                                       |
+| Shortcut                     | Function                              |
 | ---------------------------- | ------------------------------------- |
-| `cmd P`                      | Go to file                            |
+| `cmd` <kbd>P</kbd>           | Go to file                            |
 | `cmd W`                      | Close window                          |
 | `option down/up arrow`       | Move line down/up                     |
 | `shift cmd K`                | Delete line                           |
