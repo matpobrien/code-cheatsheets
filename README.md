@@ -1,6 +1,5 @@
 # Code Cheatsheets
 
-[Home](/)
 [About](/about.md)
 [Code Cheatsheets](codes/)
 
