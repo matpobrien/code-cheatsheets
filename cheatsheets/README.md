@@ -1,6 +1,6 @@
-# Codes
+# Cheatsheets
 
-## [Command Line](/codes/command-line)
+## [Command Line](/cheatsheets/command-line)
 
 ## [Visual Studio Code](/codes/visual-studio-code)
 

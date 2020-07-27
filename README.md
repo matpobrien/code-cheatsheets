@@ -1,7 +1,7 @@
 # Code Cheatsheets
 
 [About](/about.md)
-[Code Cheatsheets](codes/)
+[Code Cheatsheets](cheatsheets/)
 
 > Me: Hmm... what happens if I don't pay attention for two minutes?
 >
