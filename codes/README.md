@@ -8,4 +8,4 @@
 
 ## [Markdown](/codes/markdown)
 
-## [Javascript](/codes/javascript)
+## [Javascript](/codes/javascript.md)
