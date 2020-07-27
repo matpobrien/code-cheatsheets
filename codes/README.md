@@ -7,3 +7,5 @@
 ## [Git](/codes/git)
 
 ## [Markdown](/codes/markdown)
+
+## [Javascript](/codes/javascript)

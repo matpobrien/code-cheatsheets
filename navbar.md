@@ -3,3 +3,4 @@
   - [VS Code](codes/visual-studio-code)
   - [Git](codes/git.md)
   - [Markdown](/codes/markdown)
+  - [Javascript](/codes/javascript)
